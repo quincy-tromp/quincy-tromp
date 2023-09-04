@@ -1,3 +1,2 @@
 - 👋 Hi, I’m @quincy-tromp
-- 👀 I’m interested in opportunities in the field of Data Engineering, Big Data, and Data Analytics
 - 📫 How to reach me : quincy.tromp@hotmail.com
